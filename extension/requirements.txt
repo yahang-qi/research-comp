@@ -1,0 +1,8 @@
+numpy
+torch
+transformers
+huggingface_hub
+scipy
+scikit-learn
+matplotlib
+pytest
